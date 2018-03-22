@@ -1,0 +1,10 @@
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\bin\Debug\Sapper.exe.config
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\bin\Debug\Sapper.exe
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\bin\Debug\Sapper.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.Option.resources
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.exe
+c:\users\михаил\documents\visual studio 2017\Projects\Sapper\Sapper\obj\Debug\Sapper.pdb
